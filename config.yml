@@ -130,16 +130,17 @@ params:
             Hola,
             - I'm Ricardo
 
-            - Now: Building [datadice] (https://datadice.io/), a Business Intelligence Agency.
+            - **Now:** Building [datadice](https://datadice.io/), a Business Intelligence Agency.
 
-            - Started my own company, an independent cinema, when I was 19 years old. I ran Cairo Cinema for almost 10 years, until deciding to sell it in early 2018.
-
-            - MSc in Supply Chain and Logistics, NTU Singapore.
+            -
+              
+            - I ran Cairo Cinema, an independent cinema in México for almost 10 years, until deciding to sell it in early 2018.
 
             - I worked in Mexico, Singapore, China, and now in Germany.
 
-            - I made a podcast for over seven years with Maru, Padrecito Empresarial, that pretended to be about business, but was more about life.
+            - For over seven years I made a podcast with Maru and Diego, Padrecito Empresarial. It pretended to be about business.
 
+            - MSc in Supply Chain and Logistics, NTU Singapore.
 
     socialIcons:
         - name: github
