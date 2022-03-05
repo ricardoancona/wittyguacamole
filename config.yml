@@ -1,6 +1,6 @@
 baseURL: "/"
 title: Ricardo Ancona
-paginate: 5
+paginate: 20
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -24,21 +24,21 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 5
+                - name: Projects
+                  url: projects/
+                  weight: 10
                 - name: Search
                   url: search/
                   weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
 
-    fr:
-        languageName: ":es:"
+    es:
+        languageName: ":cactus:"
         languageAltTitle: Español
         weight: 2
-        title: PaperModL2
+        title: Ricardo Ancona
         profileMode:
             enabled: true
             title: PaperMod
@@ -47,11 +47,11 @@ languages:
             # imageWidth: 120
             # imageHeight: 120
             subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
+          #  buttons:
+          #      - name: Blog
+          #        url: posts
+          #      - name: Tags
+          #        url: tags
         menu:
             main:
                 - name: Archive
@@ -73,18 +73,6 @@ languages:
                 - name: NullLink3
                   url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        menu:
-            main:
-                - name: Tags
-                  url: tags
-                  weight: 10
 
 outputs:
     home:
@@ -95,12 +83,12 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: Ricardo
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -125,16 +113,20 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Ricardo Ancona"
+        Title: "Hola"
         Content: >
-            Hola,
-            - I'm Ricardo
+            - * I'm Ricardo.
+
+            - * Calm, curious, creative.
+
+            - *
 
             - * **Now:** Building [datadice](https://datadice.io/), a Business Intelligence Agency.
 
-            -
+            - *
 
-            - * I ran Cairo Cinema, an independent cinema in México for almost 10 years, until deciding to sell it in early 2018.
+
+            - * I ran an independent cinema in México for almost 10 years, until deciding to sell it in early 2018. **Cairo Cinema Café**
 
             - * I worked in Mexico, Singapore, China, and now in Germany.
 
@@ -142,11 +134,13 @@ params:
 
             - * MSc in Supply Chain and Logistics, NTU Singapore.
 
+            - * ......
+
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+        - name: twitter
+          url: "https://twitter.com/WittyGuacamole"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/ricardoancona/"
         - name: RsS
           url: "index.xml"
 
