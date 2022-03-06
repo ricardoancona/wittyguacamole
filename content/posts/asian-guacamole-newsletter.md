@@ -16,7 +16,7 @@ Mail semanal con historias sobre Asia en español y todo el contenido asiático 
 
 Escrito con Álvaro y Rodrigo durante 2015.
 
-
+![Logo Cairo](/static/asian_guacamole.png)
 
 
 {{< css.inline >}}

@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 
 ---
 
-Cairo Cinema Café.
+![Logo Cairo](/static/cairo_logo.jpeg)
 
 I opened an independent cinema in 2008 and ran it for almost 10 years.
 

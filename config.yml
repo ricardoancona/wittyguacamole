@@ -41,12 +41,12 @@ languages:
         title: Ricardo Ancona
         profileMode:
             enabled: true
-            title: PaperMod
-            # imageUrl: "#"
+            title: Hola
+            # imageUrl: /static/cairo_logo.jpeg
             # imageTitle: my image
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            # subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
           #  buttons:
           #      - name: Blog
           #        url: posts
@@ -57,21 +57,17 @@ languages:
                 - name: Archive
                   url: archives/
                   weight: 5
+                - name: Projects
+                  url: projects/
+                  weight: 10
+                - name: Search
+                  url: search/
+                  weight: 10
                 - name: Tags
-                  url: tags
+                  url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories
-                  weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
+
+
 
 
 outputs:
@@ -102,7 +98,7 @@ params:
     profileMode:
         enabled: false
         title: PaperMod
-        imageUrl: "#"
+        imageUrl: /static/cairo_logo.jpeg
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -121,20 +117,15 @@ params:
 
             - *
 
-            - * **Now:** Building [datadice](https://datadice.io/), a Business Intelligence Agency.
+            - * I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years, until deciding to sell it in early 2018.
 
-            - *
+            - * I worked in Mexico, Singapore (MSc in Supply Chain and Logistics, at NTU), China, and now in Germany.
 
+            - * **Now:** I live in Berlin, where I'm building [**datadice**](https://datadice.io/), a Business Intelligence Agency.
 
-            - * I ran an independent cinema in México for almost 10 years, until deciding to sell it in early 2018. **Cairo Cinema Café**
+            - * The family dog locked me out of the house once.
 
-            - * I worked in Mexico, Singapore, China, and now in Germany.
-
-            - * For over seven years I made a podcast with Maru and Diego, Padrecito Empresarial. It pretended to be about business.
-
-            - * MSc in Supply Chain and Logistics, NTU Singapore.
-
-            - * ......
+            - * I was a bedwetter until I was around 12. I was a great guest at sleepovers.
 
     socialIcons:
         - name: twitter

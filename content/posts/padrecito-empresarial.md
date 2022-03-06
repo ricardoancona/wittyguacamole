@@ -10,19 +10,15 @@ ShowBreadCrumbs: false
 
 ---
 
-For over seven years I made a podcast with Maru and Diego, Padrecito Empresarial. It pretended to be about business.
+For over seven years I made a podcast with Maru and Diego, Padrecito Empresarial. It pretended to be about business. It was more about life and the chance that running a business gives you to create your own world.
 
-That one time that we made a [short](https://www.youtube.com/watch?v=aKxBL8jRgAM) based on one of my favorite webcomics, Kate Beaton's [Mystery Solving Teens](http://www.harkavagrant.com/index.php?id=199).
+En español.
 
+All episodes are in a YouTube playlist [here](https://www.youtube.com/watch?v=pxiB5_Ps6bA&list=PLQgaUUFabc2gtkvmzFW41myCeCfaAxQGw).
 
-
-
-http://www.42bn.com/padrecito
-
-https://www.youtube.com/watch?v=pxiB5_Ps6bA&list=PLQgaUUFabc2gtkvmzFW41myCeCfaAxQGw
-
-
-
+Maru keeps the spirit of the podcast going at
+[Iniciadores](https://www.youtube.com/watch?v=rX6T3plVR9M)
+ :)
 
 {{< css.inline >}}
 

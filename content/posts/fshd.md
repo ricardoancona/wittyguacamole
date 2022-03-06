@@ -40,14 +40,6 @@ I know him as: Founder of Lululemon, [interviewed by Tim Ferriss](https://tim.bl
 
 
 
-| Name  | Age |
-| ----- | --- |
-| ----- | --- |
-| ----- | --- |
-|       | 27  |
-| Alice | 23  |
-
-
 {{< css.inline >}}
 
 <style>
