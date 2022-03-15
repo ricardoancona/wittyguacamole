@@ -27,9 +27,9 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 5
-                - name: Projects
-                  url: projects/
-                  weight: 10
+                # - name: Projects
+                #   url: projects/
+                #   weight: 10
                 - name: Search
                   url: search/
                   weight: 10
@@ -49,29 +49,40 @@ languages:
             # imageTitle: my image
             # imageWidth: 120
             # imageHeight: 120
-            # subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            subtitle: "
+            Soy Ricardo.
+            <br />
+            Tuve un cine en Mérida, México por 10 años ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)).
+            <br />
+            Ahora vivo en Berlin.
+            <br /><br />
+            (Casi todo está en inglés por aquí por ahora.)
+            <br />
+
+            <br />
+            "
           #  buttons:
           #      - name: Blog
           #        url: posts
           #      - name: Tags
           #        url: tags
-        menu:
-            main:
-                - name: About
-                  url: about/
-                  weight: 5
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: Projects
-                  url: projects/
-                  weight: 10
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
+        # menu:
+        #    main:
+        #        - name: About
+        #          url: about/
+        #          weight: 5
+        #        - name: Archive
+        #          url: archives/
+        #          weight: 5
+        #        - name: Projects
+        #          url: projects/
+        #        weight: 10
+        #      - name: Search
+        #        url: search/
+        #        weight: 10
+        #      - name: Tags
+        #        url: tags/
+        #        weight: 10
 
 
 
@@ -119,19 +130,17 @@ params:
         Content: >
             - * I'm Ricardo.
 
-            - * Calm, curious, creative.
+            - *
+
+            - * I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years.
+
+            - * Now I live in Berlin.
 
             - *
 
-            - * I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years, until deciding to sell it in early 2018.
+            - * More [**here**](https://www.ricardoancona.com/about/).
 
-            - * I worked in Mexico, Singapore (MSc in Supply Chain and Logistics, at NTU), China, and now in Germany (Berlin), where I'm building [**datadice**](https://datadice.io/), a Business Intelligence Agency.
 
-            - *
-
-            - * The family dog locked me out of the house once. We remained good friends.
-
-            - * Bedwetter until I was around 12. I was a great guest at sleepovers.
 
 
     socialIcons:
@@ -139,8 +148,11 @@ params:
           url: "https://twitter.com/WittyGuacamole"
         - name: linkedin
           url: "https://www.linkedin.com/in/ricardoancona/"
+        - name: email
+          url: "mailto:ricardoancona@gmail.com"
         - name: RsS
           url: "index.xml"
+
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
@@ -157,7 +169,7 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-         favicon: "</static/favicon.ico>"
+         favicon: "/favicon.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"

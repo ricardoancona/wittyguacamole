@@ -16,7 +16,7 @@ A running list of my **10 favorite movies of the last 10 years:**
 - Petite Maman (2021)
 - Azor (2021)
 - Another Round (2020)
-- First Cow (2019)
+- First Cow (2020)
 - Varda by Agnès (2019)
 - Shoplifters (2018)
 - Eight Grade (2018)

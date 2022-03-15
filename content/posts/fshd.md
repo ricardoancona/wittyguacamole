@@ -15,11 +15,13 @@ And in their face gestures I recognize myself.
 
 Help me make this list longer by:
 Sending links to similar articles or videos.
-Profiling someone with FSHD :)
+Profiling someone with FSHD in a magazine, podcast or the media of your choice :) 
 
 #### Ryan Levinson
 
-- [Podcast](https://www.kyle.surf/podcast/80-sailing-tahiti-with-muscular-dystrophy-ryan-levinson)
+- [Sailing Across the Pacific with Muscular Dystrophy](https://www.outsideonline.com/outdoor-adventure/water-activities/sailing-muscular-dystrophy/), from Outside Magazine.
+
+- One podcast [here](https://www.kyle.surf/podcast/80-sailing-tahiti-with-muscular-dystrophy-ryan-levinson) and another one [here](https://thisoceanlifetv.podbean.com/e/ryan-levinson-part-2-living-with-muscular-dystrophy-at-sea-sailing-french-polynesia-finding-paradise/)
 
 - His YouTube channel is [here](https://www.youtube.com/channel/UCs3WnQG-QeLq1ebfr0gBUhg)
 
@@ -43,6 +45,13 @@ Profiling someone with FSHD :)
 - [His website](https://chipwilson.com/creating/)
 
 - Founder of Lululemon.
+
+
+#### Kristin Duquette
+
+- Profile [here](https://training-conditioning.com/article/comeback-athlete-kristin-duquette/) and interview [here](https://1000dreamsfund.org/kristin-duquette/)
+
+- Five-time American Paralympic swimming record holder.
 
 
 #### Morgan Hoffmann
