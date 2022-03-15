@@ -3,7 +3,7 @@ author: "R"
 title: "Los Chicos Detectives"
 date: "2022-03-05"
 description: ""
-tags: ["projects"]
+tags: ["projects", "movies"]
 hideMeta: true
 searchHidden: true
 ShowBreadCrumbs: false

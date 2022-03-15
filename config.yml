@@ -21,6 +21,9 @@ languages:
         weight: 1
         menu:
             main:
+                - name: About
+                  url: about
+                  weight: 5
                 - name: Archive
                   url: archives
                   weight: 5
@@ -54,6 +57,9 @@ languages:
           #        url: tags
         menu:
             main:
+                - name: About
+                  url: about/
+                  weight: 5
                 - name: Archive
                   url: archives/
                   weight: 5
@@ -127,6 +133,7 @@ params:
 
             - * Bedwetter until I was around 12. I was a great guest at sleepovers.
 
+
     socialIcons:
         - name: twitter
           url: "https://twitter.com/WittyGuacamole"
@@ -149,8 +156,8 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    # assets:
-    #     favicon: "<link / abs url>"
+    assets:
+         favicon: "</static/favicon.ico>"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"

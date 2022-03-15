@@ -10,33 +10,47 @@ ShowBreadCrumbs: false
 
 ---
 
-Some FSHD profiles.
+People with FSHD, living _full_ lives.
+And in their face gestures I recognize myself.
+
+Help me make this list longer by:
+Sending links to similar articles or videos.
+Profiling someone with FSHD :)
 
 #### Ryan Levinson
 
-[Podcast](https://www.kyle.surf/podcast/80-sailing-tahiti-with-muscular-dystrophy-ryan-levinson)
+- [Podcast](https://www.kyle.surf/podcast/80-sailing-tahiti-with-muscular-dystrophy-ryan-levinson)
 
-His YouTube channel is [here](https://www.youtube.com/channel/UCs3WnQG-QeLq1ebfr0gBUhg)
+- His YouTube channel is [here](https://www.youtube.com/channel/UCs3WnQG-QeLq1ebfr0gBUhg)
+
+- This was the first profile of someone with FSHD that I saved. Inspiration for this inspiration list.
+
+> Agregar otras entrevistas y profiles sobre Ryan Levinson.
 
 
 #### Chris Carrino
 
-I know him as: Play-by-play announcer of the Brooklyn Nets.
+- [Documentary](https://www.youtube.com/watch?v=6pUdGcxFecE) and [interview](https://ca.sports.yahoo.com/news/vertical-pod-with-woj--chris-carrino-164233141.html) by Woj.
 
-[His foundation](https://chriscarrinofoundation.org/about-chris-carrino/)
+- [His foundation](https://chriscarrinofoundation.org/about-chris-carrino/)
 
-[Documentary](https://www.youtube.com/watch?v=6pUdGcxFecE) and [interview](https://ca.sports.yahoo.com/news/vertical-pod-with-woj--chris-carrino-164233141.html) by Woj.
+- Play-by-play announcer of the Nets.
 
 
 #### Chip Wilson
 
-I know him as: Founder of Lululemon, [interviewed by Tim Ferriss](https://tim.blog/2021/05/19/chip-wilson/)
+- He was [interviewed by Tim Ferriss](https://tim.blog/2021/05/19/chip-wilson/) in his podcast. It is exciting to hear someone with that drive talk about how he wants to focus his energy on FSHD research.
 
-[His website](https://chipwilson.com/creating/)
+- Tía Gaby sent me [this other profile](https://financialpost.com/news/chips-challenge-vancouver-billionaire-and-lululemon-founder-chip-wilson-seeks-cure-for-rare-genetic-disorder)
+
+- [His website](https://chipwilson.com/creating/)
+
+- Founder of Lululemon.
+
 
 #### Morgan Hoffmann
 
-[Profile in Golf Digest](https://www.golfdigest.com/story/morgan-hoffmann-costa-rica-muscular-dystrophy) and [another profile here](https://www.pgatour.com/beyond-the-ropes/2020/02/24/morgan-chelsea-hoffmann-beginning-write-next-chapter-facioscapulohumeral-muscular-dystrophy-diagnosis.html)
+- [Profile in Golf Digest](https://www.golfdigest.com/story/morgan-hoffmann-costa-rica-muscular-dystrophy) and [another profile here](https://www.pgatour.com/beyond-the-ropes/2020/02/24/morgan-chelsea-hoffmann-beginning-write-next-chapter-facioscapulohumeral-muscular-dystrophy-diagnosis.html)
 
 
 
