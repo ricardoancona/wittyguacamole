@@ -25,9 +25,6 @@ Profiling someone with FSHD :)
 
 - This was the first profile of someone with FSHD that I saved. Inspiration for this inspiration list.
 
-> Agregar otras entrevistas y profiles sobre Ryan Levinson.
-
-
 #### Chris Carrino
 
 - [Documentary](https://www.youtube.com/watch?v=6pUdGcxFecE) and [interview](https://ca.sports.yahoo.com/news/vertical-pod-with-woj--chris-carrino-164233141.html) by Woj.
