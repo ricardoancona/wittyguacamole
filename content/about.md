@@ -28,4 +28,6 @@ Hola, I'm Ricardo.
 
 - Bedwetter until I was around 12. I was a great guest at sleepovers.
 
-- More: [**Life Mixtape**](https://www.ricardoancona.com/posts/life-mixtape/) and [**One Movie per Year**](https://letterboxd.com/ricardoancona/list/one-per-year-1945-2021/)
+- Podcasts that feel like conversations with friends are one of my favorite things. [Here](https://www.youtube.com/watch?v=ChQ0en3E1vE) is the last episode of my 7-year podcast with Maru (en español), [here](https://open.spotify.com/episode/1yxhN0Q18YG9dLgwi6YYbv) I am talking about living and working in China with my good friend Álvaro (en español) and [here](https://anchor.fm/the-datadice-podcast/) is an interview series that I made with the team of datadice (I think every company should make a staff podcast).
+
+- More: [**Life Mixtape**](https://www.ricardoancona.com/posts/life-mixtape/) and [**One Movie per Year**](https://letterboxd.com/ricardoancona/list/one-per-year-1945-2021/) and [**Asian Guacamole | Volume 1**](https://ricardoancona.pixieset.com/asianguacamole/).

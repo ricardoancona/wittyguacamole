@@ -14,8 +14,8 @@ People with FSHD, living _full_ lives.
 And in their face gestures I recognize myself.
 
 Help me make this list longer by:
-Sending links to similar articles or videos.
-Profiling someone with FSHD in a magazine, podcast or the media of your choice :) 
+- Sending links to similar articles or videos.
+- Profiling someone with FSHD in a magazine, podcast or the media of your choice :)
 
 #### Ryan Levinson
 

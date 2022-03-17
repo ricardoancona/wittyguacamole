@@ -1,6 +1,6 @@
 ---
 author: "R"
-title: "A running list of my 10 favorite movies of the last 10 years"
+title: "The Best Recent Movies"
 date: "2022-03-14"
 description: ""
 tags: ["projects", "lists", "movies"]

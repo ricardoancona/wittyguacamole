@@ -10,9 +10,9 @@ ShowBreadCrumbs: false
 
 ---
 
-[:notebook:](http://tinyletter.com/AsianGuacamole/archive)
-
 Mail semanal con historias sobre Asia en español y todo el contenido asiático que necesita tu vida. (En verdad, un newsletter algo corto, tal vez necesites más en tu vida, pero esto seguro lo vas a disfrutar).
+
+El archivo vive [aquí :notebook:](http://tinyletter.com/AsianGuacamole/archive)
 
 Escrito con Álvaro y Rodrigo durante 2015.
 
