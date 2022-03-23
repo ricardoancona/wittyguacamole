@@ -10,8 +10,8 @@ ShowBreadCrumbs: false
 
 ---
 
-People with FSHD, living _full_ lives.
-And in their face gestures I recognize myself.
+People with [FSHD](https://www.mda.org/disease/facioscapulohumeral-muscular-dystrophy), living _full_ lives.
+They aren't my relatives, yet in their face gestures I recognize myself.
 
 Help me make this list longer by:
 - Sending links to similar articles or videos.

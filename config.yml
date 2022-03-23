@@ -30,9 +30,9 @@ languages:
                 # - name: Projects
                 #   url: projects/
                 #   weight: 10
-                - name: Search
-                  url: search/
-                  weight: 10
+                # - name: Search
+                #  url: search/
+                #  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
@@ -56,7 +56,7 @@ languages:
             <br />
             Ahora vivo en Berlin.
             <br /><br />
-            (Casi todo está en inglés por aquí por ahora.)
+            (Casi todo está en [inglés](https://www.ricardoancona.com/about/) aquí por ahora.)
             <br />
 
             <br />
@@ -132,13 +132,7 @@ params:
 
             - *
 
-            - * I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years.
-
-            - * Now I live in Berlin.
-
-            - *
-
-            - * More [**here**](https://www.ricardoancona.com/about/).
+            - * More about me [**here**](https://www.ricardoancona.com/about/).
 
 
 
