@@ -13,8 +13,6 @@ Hola, I'm Ricardo.
 
 <br />
 
-Calm, curious, creative.
-
 I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years.
 
 Now I'm living in Berlin, where I'm building [**datadice**](https://datadice.io/), a Business Intelligence Agency.
@@ -31,3 +29,5 @@ The family dog locked me out of the house once. We remained good friends.
 I made this site using Hugo (still not sure how the tape is holding everything together).
 
 I live with [**FSHD**](https://www.ricardoancona.com/posts/fshd/), a genetic progressive muscle degeneration disease, which, like Rabbi Haviva Ner-David says, has been one of my greatest teachers.
+
+Calm, curious, creative.
