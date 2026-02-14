@@ -15,8 +15,7 @@ Hola, I'm Ricardo.
 
 I ran an independent cinema ([**Cairo Cinema Café**](https://www.ricardoancona.com/posts/cairo-cinema/)) in México for almost 10 years.
 
-Now I'm living in Berlin, where I'm building [**datadice**](https://datadice.io/), a Business Intelligence Agency.
-And besides [**watching movies**](https://letterboxd.com/ricardoancona/list/one-per-year-1945-2021/), I'm planning on spending more time and attention making them.
+Now I'm living in Berlin, where I lead the Tech Team for [Yorck Kinogruppe](https://www.yorck.de/en/cinemas). Besides [**watching movies**](https://letterboxd.com/ricardoancona/list/one-per-year-1945-2021/), I'm planning on spending more time and attention making them (like [Bicycles and Thieves](https://letterboxd.com/film/bicycles-and-thieves/)). Previously, I worked helping build  [**datadice**](https://datadice.io/), a Business Intelligence Agency.
 
 In between México and Germany, I also lived and worked in China and Singapore (MSc in Supply Chain and Logistics, at NTU). Inspired by Kevin Kelly's Asia Grace, I made [**Asian Guacamole | Volume 1**](https://ricardoancona.pixieset.com/asianguacamole/).
 
