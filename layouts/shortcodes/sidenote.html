@@ -1,0 +1,5 @@
+{{- $id := .Get "id" | default (printf "sn-%d" .Ordinal) -}}
+{{- $content := .Inner | .Page.RenderString -}}
+<label for="{{ $id }}" class="sidenote-number"></label>
+<input type="checkbox" id="{{ $id }}" class="sidenote-toggle" />
+<span class="sidenote">{{ $content | safeHTML }}</span>

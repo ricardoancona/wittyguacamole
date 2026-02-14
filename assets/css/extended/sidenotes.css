@@ -1,0 +1,94 @@
+/* Tufte-style sidenotes */
+
+/* Counter for sidenote numbers */
+body {
+    counter-reset: sidenote-counter;
+}
+
+/* Hide the checkbox (used for mobile toggle) */
+.sidenote-toggle {
+    display: none;
+}
+
+/* Sidenote number in the text */
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    position: relative;
+    vertical-align: baseline;
+    font-size: 0.75rem;
+    top: -0.5rem;
+    left: 0.1rem;
+    color: var(--primary);
+    cursor: pointer;
+}
+
+/* The sidenote itself */
+.sidenote {
+    float: right;
+    clear: right;
+    margin-right: -40%;
+    width: 35%;
+    margin-top: 0.3rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    vertical-align: baseline;
+    position: relative;
+    color: var(--secondary);
+}
+
+.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    position: relative;
+    vertical-align: baseline;
+    font-size: 0.75rem;
+    top: -0.5rem;
+    color: var(--primary);
+}
+
+/* Mobile styles - sidenotes appear as toggleable blocks */
+@media (max-width: 768px) {
+    .sidenote {
+        display: none;
+        float: none;
+        width: 95%;
+        margin: 1rem 0;
+        padding: 0.5rem;
+        background-color: var(--code-bg);
+        border-left: 3px solid var(--primary);
+    }
+
+    .sidenote-toggle:checked + .sidenote {
+        display: block;
+    }
+
+    .sidenote-number:after {
+        text-decoration: underline;
+        text-decoration-style: dotted;
+    }
+}
+
+/* Ensure sidenotes work within article/post content */
+.post-content .sidenote,
+.content .sidenote,
+article .sidenote {
+    display: inline;
+}
+
+@media (max-width: 768px) {
+    .post-content .sidenote,
+    .content .sidenote,
+    article .sidenote {
+        display: none;
+    }
+
+    .post-content .sidenote-toggle:checked + .sidenote,
+    .content .sidenote-toggle:checked + .sidenote,
+    article .sidenote-toggle:checked + .sidenote {
+        display: block;
+    }
+}
