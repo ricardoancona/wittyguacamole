@@ -8,8 +8,7 @@ tags:
 
 While delivering restaurant orders through Berlin, Eylül's bike is stolen.
 
-![Bicycles and Thieves Poster](/static/BicyclesAndThieves_Poster_WeEatDesign.jpg#center)
-
+{{< youtube SJ3p_mDFQc8 >}}
 
 A few years ago, my bike was stolen in the inner courtyard of the building where I was living. 
 I was clearly over it, so with some good friends, I made a short movie where the protagonist's bike is stolen.
@@ -44,6 +43,7 @@ And the local newspaper of my hometown in Mexico wrote a very nice article about
 
 Rosy Martínez, Roberto Ancona, Laura Tamoj, Kent Lamm, Anne Elzemann, Janna Fodor, Daniel Irabién, Maru Medina, Merlin Mann, FSHD, Wa'el and the staff of Beirut der 70er.
 
-{{< youtube SJ3p_mDFQc8 >}}
+![Bicycles and Thieves Poster](/static/BicyclesAndThieves_Poster_WeEatDesign.jpg#center)
+Carlos Alonzo from WeEatDesign made this wonderful poster for the movie
 
 *Mérida, Mexico and Berlin, Germany. 2022-2023.*
