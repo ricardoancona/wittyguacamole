@@ -4,7 +4,6 @@ date: 2026-02-15
 draft: false
 tags:
 ---
-## Bicycles and Thieves
 
 While delivering restaurant orders through Berlin, Eylül's bike is stolen.
 
@@ -12,7 +11,7 @@ While delivering restaurant orders through Berlin, Eylül's bike is stolen.
 
 
 A few years ago, my bike was stolen in the inner courtyard of the building where I was living. 
-I was clearly over it, so with some good friends, I made a short movie where the protagonist's bike is stolen.
+I was clearly over it, so with some good friends, I made [Bicycles and Thieves](https://letterboxd.com/film/bicycles-and-thieves/) (2022-2023), a short movie where the protagonist's bike is stolen.
 
 The short movie was rejected by a lot of festivals, but it did win some awards {{< sidenote >}}**Berlin Indie Film Festival 2023** - Best First Time Director | **Portugal Indie Film Festival 2023** - Best First Time Director, Short Film | **Depth of Field International Film Festival 2023** - Exceptional Merit in Art-house Film{{< /sidenote >}}. 
 
