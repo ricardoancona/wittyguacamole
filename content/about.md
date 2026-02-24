@@ -19,7 +19,12 @@ Now I'm living in Berlin, where I lead the Tech Team for [Yorck Kinogruppe](http
 
 In between México and Germany, I also lived and worked in China and Singapore (MSc in Supply Chain and Logistics, at NTU). Inspired by Kevin Kelly's Asia Grace, I made [**Asian Guacamole | Volume 1**](https://ricardoancona.pixieset.com/asianguacamole/).
 
-Podcasts that feel like conversations with friends are one of my favorite things. [Here](https://www.youtube.com/watch?v=ChQ0en3E1vE) is the last episode of my 7-year podcast with Maru (en español), [here](https://open.spotify.com/episode/1yxhN0Q18YG9dLgwi6YYbv) I am talking about living and working in China with my good friend Álvaro (en español) and [here](https://anchor.fm/the-datadice-podcast/) is an interview series that I made with the team of datadice (I think every company should make a staff podcast).
+Podcasts that feel like conversations with friends are one of my favorite things.
+- [Here](https://www.youtube.com/watch?v=ChQ0en3E1vE) is the last episode of my 7-year podcast with Maru (en español).
+- [Here](https://open.spotify.com/episode/1yxhN0Q18YG9dLgwi6YYbv) I am talking about living and working in China with my good friend Álvaro (en español) in China con Todo.
+- [Here](https://anchor.fm/the-datadice-podcast/) is an interview series that I made with the team of datadice (I think every company should make a staff podcast).
+- [Here](https://everyone.berlin/episode/36) is my appearance in Everyone is moving to Berlin, talking about cinemas in Berlin before I joined Yorck.
+- [Here](https://www.youtube.com/watch?v=EaKGVN0rkTw) is the pilot episode of the Cinema Tech podcast, where I was a guest.
 
 In the spirit of the CDs that I would *burn* with my favorite songs of that month when I was a teenager, I made a [**Life Mixtape**](https://www.ricardoancona.com/posts/life-mixtape/).
 
